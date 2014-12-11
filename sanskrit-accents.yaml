@@ -1,6 +1,11 @@
 ---
+- - अ॔ंश
+  - :slp1: a/MSa
+    :slp1_headword2: /aMSa
+    :iso: áṁśa
 - - वय॔म्
   - :slp1: vaya/m
+    :slp1_headword2: vay/am
     :iso: vayám
 - - आ॔तवायन
   - :slp1: A/tavAyana
@@ -8,6 +13,10 @@
 - - अस्मे॔
   - :slp1: asme/
     :iso: asmḗ
+- - शप्त॔
+  - :slp1: Sapta/
+    :slp1_headword2: Sapt/a
+    :iso: śaptá
 - - स॒प्त
   - :slp1: sa\pta
     :iso: sa̲pta
@@ -23,3 +32,6 @@
 - - इन्द्र॑
   - :slp1: indra^
     :iso: indrà
+- - परो॔-ऽंहु
+  - :slp1: "paro/-'Mhu"
+    :slp1_headword2: "par/o-'Mhu"
